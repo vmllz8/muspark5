@@ -1,0 +1,19 @@
+:root { 
+  --black: #000000;
+  --gun-powder: #3f3d56;
+  --white: #ffffff;
+ 
+  --font-size-l: 16px;
+  --font-size-xl: 24px;
+  --font-size-xs: 10px;
+ 
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-noto_sans_arabic: "Noto Sans Arabic", Helvetica;
+}
+.inter-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}

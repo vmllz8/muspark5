@@ -1,0 +1,104 @@
+.iphone-14-5 {
+  align-items: center;
+  background-color: #fbf6f1;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  height: 844px;
+  padding: 14px 0;
+  width: 390px;
+}
+
+.overlap-group1 {
+  height: 67px;
+  margin-right: 2.18px;
+  position: relative;
+  width: 340px;
+}
+
+.ellipse-18 {
+  cursor: pointer;
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 31px;
+  width: 38px;
+}
+
+.arrow-4 {
+  height: 22px;
+  left: 6px;
+  position: absolute;
+  top: 38px;
+  width: 22px;
+}
+
+.overlap-group {
+  height: 669px;
+  position: relative;
+  width: 390px;
+}
+
+.text-2 {
+  color: var(--white);
+  direction: rtl;
+  font-family: var(--font-family-noto_sans_arabic);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 117px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: 247px;
+}
+
+.text-3 {
+  color: var(--gun-powder);
+  direction: rtl;
+  font-family: var(--font-family-noto_sans_arabic);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 93px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 290px;
+  width: 211px;
+}
+
+.ellipse-7 {
+  background: linear-gradient(180deg, rgb(63, 61, 86) 0%, rgba(217, 217, 217, 0) 100%);
+  border-radius: 75px;
+  height: 150px;
+  left: 120px;
+  position: absolute;
+  top: 90px;
+  width: 150px;
+}
+
+.gg {
+  height: 314px;
+  left: 0;
+  position: absolute;
+  top: 355px;
+  width: 390px;
+}
+
+.text-4 {
+  color: var(--white);
+  direction: rtl;
+  font-family: var(--font-family-noto_sans_arabic);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  left: 159px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 154px;
+}
+
